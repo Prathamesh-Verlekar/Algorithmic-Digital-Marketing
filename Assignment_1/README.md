@@ -17,13 +17,14 @@ https://codelabs-preview.appspot.com/?file_id=1XP5C_Dyq4n5XjUmAIwF9UN8vX6FeirDn2
 
 # **Dashboard for Analysis**
 
-Main Dashboard - https://na172.salesforce.com/analytics/wave/dashboard?assetId=0FK5w000000OCVZGA4&orgId=00D5w000006VckD&loginHost=na172.salesforce.com&urlType=sharing&pageId=cf72f924-3e84-4ee4-b9fe-0a8c35c011ea&savedViewId=8wk5w000000g3EoAAI&analyticsContext=analyticsTab
+**Main Dashboard:**
+![Main Dashboard](https://user-images.githubusercontent.com/55213702/84539877-46d1aa00-acc2-11ea-8e5c-2070aa7ec3e7.jpeg)
 
-Defaulter By Income Category - https://na172.salesforce.com/analytics/wave/dashboard?assetId=0FK5w000000OCQsGAO&orgId=00D5w000006VckD&loginHost=na172.salesforce.com&urlType=sharing&pageId=112df963-8b04-4a03-abc1-0cc174a9e255&savedViewId=8wk5w000000g3EeAAI&analyticsContext=analyticsTab
+**Detailed Dashboards:**
+![Detailed Dashboard 1](https://user-images.githubusercontent.com/55213702/84539879-476a4080-acc2-11ea-9651-a211033868c6.jpeg)
+![Detailed Dashboard 2](https://user-images.githubusercontent.com/55213702/84539880-476a4080-acc2-11ea-97c6-6bcd123f0f9e.jpeg)
 
-Defaulter By Age Category - https://na172.salesforce.com/analytics/wave/dashboard?assetId=0FK5w000000OCV5GAO&orgId=00D5w000006VckD&loginHost=na172.salesforce.com&urlType=sharing&pageId=112df963-8b04-4a03-abc1-0cc174a9e255&savedViewId=8wk5w000000g3EjAAI&analyticsContext=analyticsTab
-
-# **About Dataset Features**
+## **About Dataset Features**
 
 There are a total of 11 features in the dataset (SeriousDlqin2yrs, RevolvingUtilizationOfUnsecuredLines, age, NumberOfTime30-59DaysPastDueNotWorse, DebtRatio, MonthlyIncome, NumberOfOpenCreditLinesAndLoans, NumberOfTimes90DaysLate, NumberRealEstateLoansOrLines, NumberOfTime60-89DaysPastDueNotWorse, NumberOfDependents).
 The dataset has 1.5 lakh observations.
