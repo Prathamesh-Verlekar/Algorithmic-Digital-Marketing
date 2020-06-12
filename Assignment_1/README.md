@@ -27,18 +27,27 @@ https://codelabs-preview.appspot.com/?file_id=1XP5C_Dyq4n5XjUmAIwF9UN8vX6FeirDn2
 ## **About Dataset Features**
 
 There are a total of 11 features in the dataset (SeriousDlqin2yrs, RevolvingUtilizationOfUnsecuredLines, age, NumberOfTime30-59DaysPastDueNotWorse, DebtRatio, MonthlyIncome, NumberOfOpenCreditLinesAndLoans, NumberOfTimes90DaysLate, NumberRealEstateLoansOrLines, NumberOfTime60-89DaysPastDueNotWorse, NumberOfDependents).
+
 The dataset has 1.5 lakh observations.
+
 The main feature is SeriousDlqin2yrs, which tells us whether the person experienced 90 days past due to delinquency or worse.
+
 All the details of the borrowers are of the past two years only.
+
 Two features(RevolvingUtilizationOfUnsecuredLines, DebtRatio) are of the data type percentage and monthly income is of data type real and the rest all are integers.
 
 ## **Formulations we have used**
 
 Replaced mismatched Values in MonthlyIncome with them the median value of the Monthly Income Column.
+
 Replaced mismatched Values in the Number Of Dependent Column with the mode.
+
 Inner Joined two CSV files together with the common columns.
+
 Created Custom category(Age Category) with three conditions where data is distributed age-wise.
+
 Created Custom category(Income Category) with five conditions where data is distributed income-wise.
+
 The debt ratio is calculated by the division of the Liability and monthly income of the person given in the table.
 
 ## **Running Jupyter Notebook**
