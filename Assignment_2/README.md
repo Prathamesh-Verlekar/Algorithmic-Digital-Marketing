@@ -57,4 +57,7 @@ Annoy (Approximate Nearest Neighbor Oh Yeah), is an open-sourced library for fin
 
 ## Application Screenshots
 
+![Second_SS](https://user-images.githubusercontent.com/55213702/89846680-dcb57400-db4f-11ea-8bd5-7b66c8431ff8.jpeg)
+
+![Flask_AWS (2)](https://user-images.githubusercontent.com/55213702/89846654-cad3d100-db4f-11ea-9990-46426b927564.jpeg)
 
