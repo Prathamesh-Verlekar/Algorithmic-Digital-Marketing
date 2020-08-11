@@ -53,3 +53,8 @@ Faiss offers a state-of-the-art GPU implementation for the most relevant indexin
 ## Spotify Annoy Method
 
 Annoy (Approximate Nearest Neighbor Oh Yeah), is an open-sourced library for finding approximate nearest neighbors. This algorithm builds an annoy index by appending all image feature vectors stored in the local folder. The annoy library is basically used to solve the problem of Nearest Neightbour search (NNS) for the Euclidean distance, Manhattan distance, cosine distance, Hamming distance, or Dot (Inner) Product distance. With Annoy, you will build a net of dots or vectors in a n dimensional space, in order to then ask it to give you different propierties of this given net. One of the advantatges in using this library is that it is specially efficient when it comes to memory storage.
+
+
+## Application Screenshots
+
+
