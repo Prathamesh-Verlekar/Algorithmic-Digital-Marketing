@@ -12,4 +12,6 @@ https://codelabs-preview.appspot.com/?file_id=1w6cRM7R4vR45zwsY5jq2GiY2LWJSNCDko
 
 ### Assignment 3 Claat Document
 
+https://docs.google.com/document/d/1w6cRM7R4vR45zwsY5jq2GiY2LWJSNCDkoq2zAToK6GA/edit
+
 
