@@ -49,22 +49,22 @@ Apache J meter is java open source software that is used as a load testing tool 
 
 We connected our recommendation models to streamlit application with the help of FastAPI.
 
-1. Streamlit apps are Python scripts that run from top to bottom.\
-2. Every time a user opens a browser tab pointing to your app, the script is re-executed.\
-3. As the script executes, Streamlit draws its output live in a browser.\
-4. Scripts use the Streamlit cache to avoid recomputing expensive functions, so updates happen very fast.\
+1. Streamlit apps are Python scripts that run from top to bottom.
+2. Every time a user opens a browser tab pointing to your app, the script is re-executed.
+3. As the script executes, Streamlit draws its output live in a browser.
+4. Scripts use the Streamlit cache to avoid recomputing expensive functions, so updates happen very fast.
 5. Every time a user interacts with a widget, your script is re-executed and the output value of that widget is set to the new value during that run.
 
 ![Capture6](https://user-images.githubusercontent.com/55213702/90304965-3dfc8080-de8b-11ea-8f12-c8282ac93381.PNG)
 
 ## References
 
--> https://github.com/microsoft/recommenders \
--> https://fastapi.tiangolo.com/tutorial/body/ \
--> https://github.com/microsoft/recommenders/blob/master/examples/00_quick_start/sequential_recsys_amazondataset.ipynb \
--> https://github.com/microsoft/recommenders/blob/master/examples/02_model_collaborative_filtering/lightgcn_deep_dive.ipynb \
--> https://github.com/microsoft/recommenders/tree/master/tests \
--> https://github.com/davidefiocco/streamlit-fastapi-model-serving
+https://github.com/microsoft/recommenders \
+https://fastapi.tiangolo.com/tutorial/body/ \
+https://github.com/microsoft/recommenders/blob/master/examples/00_quick_start/sequential_recsys_amazondataset.ipynb \
+https://github.com/microsoft/recommenders/blob/master/examples/02_model_collaborative_filtering/lightgcn_deep_dive.ipynb \
+https://github.com/microsoft/recommenders/tree/master/tests \
+https://github.com/davidefiocco/streamlit-fastapi-model-serving
 
 
 
