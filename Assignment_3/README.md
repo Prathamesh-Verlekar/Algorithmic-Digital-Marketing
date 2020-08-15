@@ -11,4 +11,6 @@
 
 Colab link
 
-https://docs.google.com/document/d/1w6cRM7R4vR45zwsY5jq2GiY2LWJSNCDkoq2zAToK6GA/edit
+https://codelabs-preview.appspot.com/?file_id=1w6cRM7R4vR45zwsY5jq2GiY2LWJSNCDkoq2zAToK6GA/edit#0
+
+
