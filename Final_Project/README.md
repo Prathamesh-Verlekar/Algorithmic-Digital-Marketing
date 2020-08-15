@@ -24,16 +24,16 @@ On 19th September 2014, Alibaba's market value was US$231 billion. It is one of 
 
 ## Goals of the Project
 
--> Finding Recency, Frequency, and Monetary Value to find the company's best customers by using certain measures.
--> Build a recommendation system for suggesting products to the customers that they might also like.
--> To Crawl, Index, and Rank data using the Search engine for better customer experience.
--> Build a dashboard for business owners to better understand their sales and decide future marketing strategies.
+-> Finding Recency, Frequency, and Monetary Value to find the company's best customers by using certain measures.\
+-> Build a recommendation system for suggesting products to the customers that they might also like.\
+-> To Crawl, Index, and Rank data using the Search engine for better customer experience.\
+-> Build a dashboard for business owners to better understand their sales and decide future marketing strategies.\
 -> Create a web application for better user experience.
 
 ## About Dataset used for the project
 
--> We will be using datasets available on Kaggle along with data available through different open sources and websites.
--> Kaggle Dataset  Link:https://www.kaggle.com/AppleEcomerceInfo/ecommerce-information?select=products.txt
+-> We will be using datasets available on Kaggle along with data available through different open sources and websites.\
+-> Kaggle Dataset  Link:https://www.kaggle.com/AppleEcomerceInfo/ecommerce-information?select=products.txt \
 -> http://yongfeng.me/dataset/  
 
 ## Personas
@@ -89,13 +89,13 @@ Salesforce.com, inc. is an American cloud-based software company headquartered i
 
 Using Salesforce we calculated mentioned insights,
 
--> Total Revenue generated , Total Quantity sold, Top country that use the website
--> Which Country has purchased most items
--> Category wise items ordered and Cancelled
--> How many items after placing in cart where purchased
--> Number of orders based on weekdays
--> Which has platform(Phone and Web) used for Most
--> Quantity sold based on segments (Loyal, potential Loyalist, Cannot lose them, new Customer and Lost customers)
+-> Total Revenue generated , Total Quantity sold, Top country that use the website\
+-> Which Country has purchased most items\
+-> Category wise items ordered and Cancelled\
+-> How many items after placing in cart where purchased\
+-> Number of orders based on weekdays\
+-> Which has platform(Phone and Web) used for Most\
+-> Quantity sold based on segments (Loyal, potential Loyalist, Cannot lose them, new Customer and Lost customers)\
 -> Tablewise segmentation
 
 ## Dashboard for Alibaba Insights
@@ -156,11 +156,11 @@ AWS provides on-demand access to scalable web and application servers, storage, 
 
 ## References
 
--> https://github.com/microsoft/recommenders
--> https://fastapi.tiangolo.com/tutorial/body/
--> https://github.com/microsoft/recommenders/blob/master/examples/00_quick_start/sequential_recsys_amazondataset.ipynb
--> https://github.com/microsoft/recommenders/blob/master/examples/02_model_collaborative_filtering/lightgcn_deep_dive.ipynb
--> https://github.com/microsoft/recommenders/tree/master/tests
+-> https://github.com/microsoft/recommenders \
+-> https://fastapi.tiangolo.com/tutorial/body/ \
+-> https://github.com/microsoft/recommenders/blob/master/examples/00_quick_start/sequential_recsys_amazondataset.ipynb \
+-> https://github.com/microsoft/recommenders/blob/master/examples/02_model_collaborative_filtering/lightgcn_deep_dive.ipynb \
+-> https://github.com/microsoft/recommenders/tree/master/tests \
 -> https://github.com/davidefiocco/streamlit-fastapi-model-serving
 
 
