@@ -16,6 +16,6 @@
 **Final Project** [click here](https://codelabs-preview.appspot.com/?file_id=1wwoLIavhAn-CVJkaIrQI8Lx4-xSZeWoGJ2dCHv4-aTQ/edit#4)
 
 
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Prathamesh-Verlekar)](https://github.com/anuraghazra/github-readme-stats)
 
 
